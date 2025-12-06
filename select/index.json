@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Listen!!",
+  "base_artist": "放課後ティータイム",
+  "createdAt": "2025-12-06T03:54:41.260477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still Won't Listen",
+      "artist": "Kurt Travis",
+      "has_synced": true,
+      "path": "select/01_Still_Won't_Listen_Kurt_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'd Rather Listen to Weston",
+      "artist": "Youth Pictures of Florence Henderson",
+      "has_synced": true,
+      "path": "select/02_I'd_Rather_Listen_to_Weston_Youth_Pictures_of_Florence_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Listen Close",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/03_I_Listen_Close_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Listen Up",
+      "artist": "Noel Gallagher",
+      "has_synced": true,
+      "path": "select/04_Listen_Up_Noel_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Listen Up",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/05_Listen_Up_Oasis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Listen to the Sky",
+      "artist": "Sands",
+      "has_synced": true,
+      "path": "select/06_Listen_to_the_Sky_Sands.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Listen Up",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/07_Listen_Up_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Listen to the Wind",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/08_Listen_to_the_Wind_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Listen to the Wind [From the New World]",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/09_Listen_to_the_Wind_[From_the_New_World]_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Listen (feat. John Legend)",
+      "artist": "David Guetta feat. John Legend",
+      "has_synced": true,
+      "path": "select/10_Listen_(feat._John_Legend)_David_Guetta_feat._John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Listen (feat. John Legend)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/11_Listen_(feat._John_Legend)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Listen To My Heart",
+      "artist": "Cartoons",
+      "has_synced": true,
+      "path": "select/12_Listen_To_My_Heart_Cartoons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Listen to the Flies",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/13_Listen_to_the_Flies_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mama Said \"Respect the Venus Symbol\" I Didn't Listen",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/14_Mama_Said__Respect_the_Venus_Symbol__I_Didn't_Listen_IDK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Listen",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/15_Listen_Black.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Listen",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/16_Listen_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Listen Like Thieves",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/17_Listen_Like_Thieves_INXS.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Listen Like Thieves",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/18_Listen_Like_Thieves_INXS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Listen!!",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/pl_01_Listen!!_放課後ティータイム.txt"
+    }
+  ]
+}
