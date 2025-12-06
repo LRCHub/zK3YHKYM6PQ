@@ -1,0 +1,48 @@
+# 放課後ティータイム – Listen!!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It's deep deep 心の奥深く
+何にも響かなかったサンクチュアリに
+heat heat 火がついちゃったから戻れない
+It's shock shock 衝撃発信して
+どこまでも ねえ一緒に行こうよって
+rock rock 音の嵐 津波 誘い合う
+落としたピック 折れたスティック
+全然問題ない
+同じサウンドの中にいる それが実は奇跡
+We'll sing 歌うよ 感じる そのまま
+どんなに小さくても 世界でひとつの歌
+今日死んでも悔やまないってくらい
+全力で生きたいんだ
+放て passionate
+私たちの、これがPRECIOUS Heart Beat
+歌うよ
+Non sweet sweet 甘い言葉より
+本音が心地いいでしょ Touch of mind そう
+wit wit きかせて楽しくね ずっといつも
+Non stop stop 生まれる思いは
+光より先を急いでるから
+rock rock 音でつかまえて 伝えなきゃ
+走るリズム 狂ったチューニング
+全部想定内
+同じ夢選んでる それが明日へのパワー
+We'll shout 叫ぶよ awayなステージでも
+どんなに怖くても ひとりきりじゃないから
+未完成だってかまわない
+本気奏でたいんだ
+届け truthfulness
+やっと逢えたね、これがTREASURE Heart Beat
+We want to know…to live…to love
+数え切れない祈り
+声にして羽にして Can Fly High
+We'll sing 歌うよ 感じる そのまま
+どんなに小さくても 世界でひとつの歌
+今日死んでも悔やまないってくらい
+全力で生きたいんだ
+放て passionate
+私たちの、これがPRECIOUS Heart Beat
+歌うよ TREASURE Heart Beat
+Listen!!
+```
